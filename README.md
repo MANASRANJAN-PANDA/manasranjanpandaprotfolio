@@ -36,7 +36,7 @@ This project showcases my skills, projects, and contact information as a web dev
 
 ## ✨ Live Demo
 
-Check out the live site: [Your Netlify/Vercel/GitHub Pages Link Here]
+Check out the live site: [https://manasranjan-panda.github.io/manasranjanpandaprotfolio/]
 
 ## 📬 Contact
 
